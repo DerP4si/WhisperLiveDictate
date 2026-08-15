@@ -1,7 +1,3 @@
-# AI-Disclaimer:
-Allmost everything of this is vibe-coded. I know basic python but couldn't build such a app just by myself, so be aware that there are prob. many things that can be improved. This is why open source exists and why I am happy to post this here...
-
-
 # WhisperLiveDictate
 
 A lightweight, local real-time speech-to-text dictation desktop application powered by OpenAI's Whisper models and `faster-whisper`. Designed for fast, accurate continuous dictation with customizable context awareness, custom hotkeys, and automated post-processing error correction.
@@ -15,6 +11,12 @@ A lightweight, local real-time speech-to-text dictation desktop application powe
 *Main Window featuring the global toggle button, settings panel shortcut, and built-in text editor.*
 
 ---
+
+# AI-Disclaimer:
+Allmost everything of this is vibe-coded. I know basic python but couldn't build such a app just by myself, so be aware that there are prob. many things that can be improved. This is why open source exists and why I am happy to post this here...
+
+---
+
 
 ## ✨ Key Features
 
@@ -56,8 +58,6 @@ A lightweight, local real-time speech-to-text dictation desktop application powe
 
 ## Languages
 German, English, Dutch, Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bosnian, Breton, Bulgarian,  Cantonese, Catalan, Chinese, Croatian, Czech, Danish, Estonian, Faroese, Finnish, French, Galician, Georgian, Greek, Gujarati, HaitianCreole, Hausa,  Hawaiian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Lao, Latin, Latvian, Lingala, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Marathi, Mongolian, Myanmar, Maori, Nepali, Norwegian, Nynorsk, Occitan, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Sanskrit, Serbian, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Yiddish, Yoruba
-
-
 
 
 # Test
