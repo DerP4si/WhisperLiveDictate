@@ -6,7 +6,7 @@ A lightweight, local real-time speech-to-text dictation desktop application powe
 
 ## 📸 Screenshots
 
-![Main GUI Window](./media/pic1.jpg)
+![Main GUI Window](./media/pic1.jpg) ![Main GUI Recording](./media/record.jpg)
 
 *Main Window featuring the global toggle button, settings panel shortcut, and built-in text editor.*
 
