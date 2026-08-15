@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Betriebssystem
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+tests/
+
+# Sonstiges
+*.bak
+*.tmp
